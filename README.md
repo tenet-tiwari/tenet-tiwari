@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/tenet-tiwari/tenet-tiwari/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
 <h3 align="center">A passionate software developer and Coder from India</h3>
