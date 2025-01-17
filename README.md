@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenet-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="tenet-tiwari" /> </p>
 
-- 🔭 I’m currently working on **E-Vote (Full-Stack MERN Web App)**
+- 🔭 I’m currently working on **Cloud Technologies**
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
